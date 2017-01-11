@@ -2,8 +2,8 @@
 crawling naver blog articles with nodeJS
 
 #### Precondition
-1. PhantomJS
-2. CasperJS
+`1. PhantomJS`
+`2. CasperJS`
 
 
 #### Usage
