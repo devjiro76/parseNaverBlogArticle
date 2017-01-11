@@ -7,5 +7,5 @@ crawling naver blog articles with nodeJS
 
 
 #### Usage
-var article = require("parseBlogArticle");
-article.url("http://blog.naver.com/{blog_id}/{article_id}");
+    var article = require("parseBlogArticle");
+    article.url("http://blog.naver.com/{blog_id}/{article_id}");
