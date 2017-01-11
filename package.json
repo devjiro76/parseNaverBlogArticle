@@ -11,6 +11,6 @@
   "dependencies": {
     "spooky": "~0.2.5",
     "cheerio": "~0.22.0",
-    "html-entities": "~1.2.0",
-  }
+    "html-entities": "~1.2.0"
+ }
 }
