@@ -1,0 +1,16 @@
+{
+  "name": "parseNaverBlogArticle",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "spooky": "~0.2.5",
+    "cheerio": "~0.22.0",
+    "html-entities": "~1.2.0",
+  }
+}
