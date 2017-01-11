@@ -5,9 +5,6 @@ crawling naver blog articles with nodeJS
 1. PhantomJS
 2. CasperJS
 
-#### Install
-~~npm install parseBlogArticle~~(Not Yet)
-
 
 #### Usage
 var article = require("parseBlogArticle");
