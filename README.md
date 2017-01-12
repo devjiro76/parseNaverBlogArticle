@@ -6,8 +6,8 @@ crawling naver blog articles with nodeJS
     2. CasperJS
 
 You can install PhantomJS, CapserJs
-    $ npm install -g casperjs
-    $ npm install -g phantomjs
+$ npm install -g casperjs
+$ npm install -g phantomjs
 
 ### Dependencies
     1. "spooky": "~0.2.5"
